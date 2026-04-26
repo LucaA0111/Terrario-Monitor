@@ -16,7 +16,7 @@ Il progetto integra un’interfaccia web moderna, un sistema di allarmi visivi e
 - Alimentazione 5V USB  
 - Cablaggi, breadboard o PCB  
 
-[Schema](docs/Schema_bb.png)
+![Schema](docs/Schema_bb.png)
 ---
 
 ## ⚙️ System Description
