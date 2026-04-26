@@ -8,15 +8,15 @@ Il progetto integra un’interfaccia web moderna, un sistema di allarmi visivi e
 ## 📦 Componenti Utilizzati
 - ESP8266 (NodeMCU / Wemos D1 Mini)  
 - Sensore DHT11  
-- Fotoresistore (LDR) + resistenza  
+- Fotoresistore (LDR) 
 - Display LCD 16×2 con interfaccia I2C  
 - LED RGB  
-- LED esterno per segnale WiFi debole  
-- Buzzer  
-- Sensore magnetico (reed switch)  
+- LED esterno + resistenza 
+- Buzzer + resistenza
 - Alimentazione 5V USB  
 - Cablaggi, breadboard o PCB  
 
+[Schema](docs/Schema_bb.png)
 ---
 
 ## ⚙️ System Description
