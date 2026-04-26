@@ -33,7 +33,7 @@ Tutti i dati vengono inviati a **InfluxDB 2.x** nella measurement `terrario`, co
 - `rssi` → segnale WiFi  
 - `led` → colore LED attivo  
 
-Questo permette analisi storiche, grafici e trend tramite strumenti come Grafana.
+Questo permette analisi storiche, grafici e trend.
 
 ### **User Controls**
 L’interfaccia web consente di:
