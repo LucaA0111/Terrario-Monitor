@@ -36,7 +36,7 @@ float WIFI_MIN_RSSI = -50.0;
 // ============================================================
 // PIN
 // ============================================================
-#define DHTPIN    D4
+#define DHTPIN    D7
 #define BUZZER    D3
 #define LED_R     D6
 #define LED_G     D0
